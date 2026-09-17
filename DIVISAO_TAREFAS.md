@@ -9,18 +9,6 @@ Tecnologias: Python 3.10+ · FastAPI · PyCryptodome · PostgreSQL (Supabase)
 
 Entrega: repositório público no GitHub
 
-Senha do Supabase: REMOVIDO
-
-## API's supabase:
----
-url: syjowndvwxyjmfivbdqe
-
-api url: https://syjowndvwxyjmfivbdqe.supabase.co/rest/v1/
-
-public api: REMOVIDO
-
-anon public: REMOVIDO
-
 ## Como ler este arquivo
 
 Cobre **todo** o enunciado `Projeto_Cofre_AES.docx`. As referências `§N` apontam para a seção
