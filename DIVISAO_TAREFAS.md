@@ -19,6 +19,8 @@ api url: https://syjowndvwxyjmfivbdqe.supabase.co/rest/v1/
 
 public api: REMOVIDO
 
+anon public: REMOVIDO
+
 ## Como ler este arquivo
 
 Cobre **todo** o enunciado `Projeto_Cofre_AES.docx`. As referências `§N` apontam para a seção
