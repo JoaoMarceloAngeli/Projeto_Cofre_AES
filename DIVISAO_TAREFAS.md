@@ -11,6 +11,13 @@ Entrega: repositório público no GitHub
 
 Senha do Supabase: asenhaefoto3:4
 
+API's supabase:
+
+url: syjowndvwxyjmfivbdqe
+
+api url: https://syjowndvwxyjmfivbdqe.supabase.co/rest/v1/
+
+public api: sb_publishable_t0Jlg8q3fJsB0Z2ujWQbrA_niujz_m7
 
 ## Como ler este arquivo
 
