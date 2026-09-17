@@ -9,8 +9,8 @@ Tecnologias: Python 3.10+ · FastAPI · PyCryptodome · PostgreSQL (Supabase)
 
 Entrega: repositório público no GitHub
 
-Senha do Supabase: **asenhaefoto3:4**
----
+Senha do Supabase: asenhaefoto3:4
+
 
 ## Como ler este arquivo
 
