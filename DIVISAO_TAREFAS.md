@@ -4,10 +4,10 @@
 **Módulo 3 — Criptografia Simétrica · Projeto de Laboratório**
 
 Equipe: **João Marcelo** e **Saddi**
-Tecnologias: Python 3.10+ · FastAPI · PyCryptodome · PostgreSQL (Supabase)
-Entrega: repositório público no GitHub
 
----
+Tecnologias: Python 3.10+ · FastAPI · PyCryptodome · PostgreSQL (Supabase)
+
+Entrega: repositório público no GitHub
 
 ## Como ler este arquivo
 
