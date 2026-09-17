@@ -19,6 +19,8 @@ api url: https://syjowndvwxyjmfivbdqe.supabase.co/rest/v1/
 
 public api: sb_publishable_t0Jlg8q3fJsB0Z2ujWQbrA_niujz_m7
 
+anon public: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InN5am93bmR2d3h5am1maXZiZHFlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODk2MzcyODksImV4cCI6MjEwNTIxMzI4OX0.txC8EmWw8jBMArXvufsK-lI_gBQldu1jAph95IIDSuc
+
 ## Como ler este arquivo
 
 Cobre **todo** o enunciado `Projeto_Cofre_AES.docx`. As referências `§N` apontam para a seção
