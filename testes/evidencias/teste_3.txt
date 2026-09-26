@@ -1,0 +1,8 @@
+Teste 3 — O que o invasor enxerga
+Executado em 2026-09-26T15:18:37
+
+select titulo, usuario, nonce, criptograma, etiqueta from public.segredos;
+  {"id": "9a189689-c74e-441f-88ff-2d78aa9f97ea", "titulo": "GitHub", "usuario": "equipe", "nonce": "xwFw2lW8mp/QXach", "criptograma": "2XkKntRwpgZ1o3Ll3ZBtBB0b", "etiqueta": "kb7+EMYIq7vPGlieiL2z0w=="}
+  {"id": "bdcb4fad-be36-45a3-ab88-16486ce6f1ea", "titulo": "Servidor de e-mail", "usuario": "equipe", "nonce": "IbiToyhUN9q+RGHc", "criptograma": "6HTGZXY6wKJebskhCc3oq14O", "etiqueta": "KxMZPIRIK6S+weUdYG/s+Q=="}
+  {"id": "d6a5ade3-3cb9-494a-ac99-012539956476", "titulo": "Painel do provedor", "usuario": "equipe", "nonce": "cJfTRp2XAMxsS6p2", "criptograma": "kyZsmxZ3c3/FLvdjfB+BCvMQ", "etiqueta": "lJsDiMSHg5JcwZxAHGSLuQ=="}
+  [OK] nenhuma senha legível em nenhum registro

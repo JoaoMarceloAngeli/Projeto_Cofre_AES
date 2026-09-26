@@ -1,0 +1,12 @@
+Teste 4 — Registro adulterado
+Executado em 2026-09-26T15:18:37
+
+update public.segredos set criptograma = 'X' || substring(criptograma from 2)
+  where id = '9a189689-c74e-441f-88ff-2d78aa9f97ea';
+  criptograma antes:  2XkKntRwpgZ1o3Ll3ZBtBB0b
+  criptograma depois: XXkKntRwpgZ1o3Ll3ZBtBB0b
+  GET /cofres/6fed8974-0e1f-46e7-8699-e336af0de624/segredos/9a189689-c74e-441f-88ff-2d78aa9f97ea
+  -> 500 {"detail":"Falha de integridade: registro adulterado"}
+  [OK] resposta 500 (com a senha-mestra correta)
+  [OK] nenhum texto claro devolvido
+  [OK] ValueError tratado (mensagem da API, sem traceback)
